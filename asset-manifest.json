@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Company-Website-Frontend/static/css/main.52d5c574.css",
+    "main.js": "/Company-Website-Frontend/static/js/main.88035cf5.js",
+    "static/js/453.8ab44547.chunk.js": "/Company-Website-Frontend/static/js/453.8ab44547.chunk.js",
+    "static/media/image87.jpg": "/Company-Website-Frontend/static/media/image87.6c758e9bd0bf9d2b9bc5.jpg",
+    "static/media/image71.jpg": "/Company-Website-Frontend/static/media/image71.e5ca4f4a66d5ac5eb962.jpg",
+    "static/media/image77.jpg": "/Company-Website-Frontend/static/media/image77.dc30e95a9f390793c37e.jpg",
+    "static/media/image21.jpg": "/Company-Website-Frontend/static/media/image21.a8472f588f282b5ee6d9.jpg",
+    "static/media/image80.jpg": "/Company-Website-Frontend/static/media/image80.18141b6afd4e3294c459.jpg",
+    "static/media/image174.gif": "/Company-Website-Frontend/static/media/image174.35a25c19655dad4f6ce6.gif",
+    "static/media/image89.jpg": "/Company-Website-Frontend/static/media/image89.23dee1649de2b0f68e7a.jpg",
+    "static/media/image76.jpg": "/Company-Website-Frontend/static/media/image76.34d8717cbb4efe782188.jpg",
+    "static/media/image86.jpg": "/Company-Website-Frontend/static/media/image86.9670257538f4147dd091.jpg",
+    "static/media/image213.png": "/Company-Website-Frontend/static/media/image213.5f34947fc33bad94aab6.png",
+    "static/media/image160.png": "/Company-Website-Frontend/static/media/image160.7caed195cf7df12603fd.png",
+    "static/media/image74.jpg": "/Company-Website-Frontend/static/media/image74.1371ddc6969d7b2e2c3e.jpg",
+    "static/media/image127.jpg": "/Company-Website-Frontend/static/media/image127.07c9b73c4f90446fc0a3.jpg",
+    "static/media/image84.jpg": "/Company-Website-Frontend/static/media/image84.94a2c1e190488b615fdc.jpg",
+    "static/media/image214.png": "/Company-Website-Frontend/static/media/image214.d448fe07abd2f77e53bd.png",
+    "static/media/image215.png": "/Company-Website-Frontend/static/media/image215.638d791f4591e9a07c34.png",
+    "static/media/image212.png": "/Company-Website-Frontend/static/media/image212.89ee9300258b6cf3c559.png",
+    "static/media/image216.png": "/Company-Website-Frontend/static/media/image216.4f3d50942659ff7786a5.png",
+    "static/media/image209.png": "/Company-Website-Frontend/static/media/image209.69da4a961842727caec2.png",
+    "static/media/image211.png": "/Company-Website-Frontend/static/media/image211.196497851cb0338313f9.png",
+    "static/media/image213.gif": "/Company-Website-Frontend/static/media/image213.46d9a10d84de2cae2c2d.gif",
+    "static/media/logoimg.jpeg": "/Company-Website-Frontend/static/media/logoimg.948e0b2d47b19ac81be9.jpeg",
+    "static/media/logotxt.jpeg": "/Company-Website-Frontend/static/media/logotxt.c678f9a9fe339c69d3ca.jpeg",
+    "index.html": "/Company-Website-Frontend/index.html",
+    "main.52d5c574.css.map": "/Company-Website-Frontend/static/css/main.52d5c574.css.map",
+    "main.88035cf5.js.map": "/Company-Website-Frontend/static/js/main.88035cf5.js.map",
+    "453.8ab44547.chunk.js.map": "/Company-Website-Frontend/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52d5c574.css",
+    "static/js/main.88035cf5.js"
+  ]
+}
